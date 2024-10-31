@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "robiullslam1021x@gmail.com",
+    "password": "robiul1234r",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -49,7 +49,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "🅡🅞🅑🅘🅤🅛",
-  "prefix": "*",
+  "prefix": "/",
   "ArYanapi": "",
   "api": "",
   "api2": "",
